@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="p2cinema" uuid="b5863af9-7116-48c2-bc0b-abecd2ae92c0">
+      <driver-ref>azure.ms</driver-ref>
+      <synchronize>true</synchronize>
+      <remarks>p2cinema.database.windows.net</remarks>
+      <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
+      <jdbc-url>jdbc:sqlserver://p2cinema.database.windows.net:1433;database=p2cinema</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+  </component>
+</project>

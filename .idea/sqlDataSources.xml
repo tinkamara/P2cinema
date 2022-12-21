@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="17943f45-0f94-42ca-9c96-5e0b3e56533b" name="mapping">
+      <data-sources db="b5863af9-7116-48c2-bc0b-abecd2ae92c0" ddl="c703c1df-89f9-4406-a2cc-29bf8a31f4ab" />
+      <scope>
+        <node kind="database" negative="1">
+          <node kind="schema" negative="1" />
+        </node>
+      </scope>
+    </mapping>
+  </component>
+  <component name="SqlDataSourceStorage">
+    <option name="dataSources">
+      <list>
+        <State>
+          <option name="id" value="c703c1df-89f9-4406-a2cc-29bf8a31f4ab" />
+          <option name="name" value="p2cinema(DDL)" />
+          <option name="languageId" value="AZURE" />
+          <option name="urls">
+            <array>
+              <option value="file://$PROJECT_DIR$/Application/src/main/java/Model" />
+            </array>
+          </option>
+          <option name="outPath" value="C:\Users\Jenny\Documents\GitHub\P2cinema\Application\src\main\java\com\myapp\root\Model" />
+          <option name="outLayout" value="File per object by schema and database.groovy" />
+          <option name="scriptOptions">
+            <map>
+              <entry key="CreateOrReplace" value="1" />
+              <entry key="MsAlterInsteadOfCreate" value="1" />
+              <entry key="UseSemicolon" value="1" />
+              <entry key="UseSurrogates" value="1" />
+            </map>
+          </option>
+        </State>
+      </list>
+    </option>
+  </component>
+</project>
