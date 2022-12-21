@@ -9,5 +9,6 @@
     <orderEntry type="library" exported="" name="jbpm.contrib.repository.springboot" level="project" />
     <orderEntry type="library" exported="" name="springframework.spring.jdbc" level="project" />
     <orderEntry type="library" exported="" name="springframework.spring" level="project" />
+    <orderEntry type="library" exported="" name="jetbrains.annotations" level="project" />
   </component>
 </module>

@@ -9,7 +9,7 @@ public class RootApplication {
 
 	public static void main(String[] args) {
 
-		SpringApplication.run(myapp.class, args);
+		SpringApplication.run(RootApplication.class, args);
 	}
 
 }
