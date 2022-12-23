@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="hibernate.javax.persistence.jpa.2.0.api" type="repository">
+    <properties maven-id="org.hibernate.javax.persistence:hibernate-jpa-2.0-api:1.0.1.Final" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/hibernate/javax/persistence/hibernate-jpa-2.0-api/1.0.1.Final/hibernate-jpa-2.0-api-1.0.1.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

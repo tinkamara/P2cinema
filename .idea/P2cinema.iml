@@ -10,5 +10,11 @@
     <orderEntry type="library" exported="" name="springframework.spring.jdbc" level="project" />
     <orderEntry type="library" exported="" name="springframework.spring" level="project" />
     <orderEntry type="library" exported="" name="jetbrains.annotations" level="project" />
+    <orderEntry type="library" exported="" name="springframework.boot.spring" level="project" />
+    <orderEntry type="library" exported="" name="javax.persistence.api" level="project" />
+    <orderEntry type="library" exported="" name="hibernate.javax.persistence.jpa.2.0.api" level="project" />
+    <orderEntry type="library" exported="" name="jakarta.annotation.api" level="project" />
+    <orderEntry type="library" exported="" name="hibernate.core" level="project" />
+    <orderEntry type="library" exported="" name="hibernate.common.commons.annotations" level="project" />
   </component>
 </module>

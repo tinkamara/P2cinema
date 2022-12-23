@@ -1,4 +1,10 @@
-import jakarta.persistence.*;
+import javax.persistence.*;
+import jakarta.annotation.*;
+import springframework.*;
+import java.lang.annotation.*;
+
+
+
 
 @Entity
 public class Saal {
@@ -19,7 +25,7 @@ public class Saal {
     @Override
     public String toString() {
         return String.format(
-                "Customer[id=%d, anzahlplätze='%s', lastName='%s']",
+                "Saal[id=%d, anzahlplätze='%s']",
                 id, anzahlplätze);
     }
 
